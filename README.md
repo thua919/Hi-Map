@@ -1,6 +1,6 @@
-# FMapping
-This is official implementation of **FMapping** :
+# Hi-Map
+This is official implementation of **Hi-Map** :
 
- *"FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM"*
+ *"Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping"*
 
  Coming soon ~
